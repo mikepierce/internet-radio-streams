@@ -1,0 +1,13 @@
+#EXTM3U
+
+# 320kb/s MP3 stereo
+http://kxlu.streamguys1.com/kxlu-hi
+
+# 160kb/s MP stereo
+http://www.ednixon.com:8120/stream
+
+# 128kb/s AAC+ stereo
+http://www.ednixon.com:9500/stream
+
+# 48kb/s AAC+ stereo
+http://kxlu.streamguys1.com:80/kxlu-lo

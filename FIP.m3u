@@ -1,0 +1,40 @@
+#EXTM3U
+
+#EXTINF:0,FIP
+http://51.158.104.58/fip-midfi.mp3
+# http://icecast.radiofrance.fr/fip-midfi.mp3
+# http://direct.fipradio.fr/live/fip-midfi.mp3
+
+#EXTINF:0,FIP Rock
+http://direct.fipradio.fr/live/fip-webradio1.mp3
+
+#EXTINF:0,FIP Jazz
+http://direct.fipradio.fr/live/fip-webradio2.mp3
+
+#EXTINF:0,FIP Groove
+http://direct.fipradio.fr/live/fip-webradio3.mp3
+
+#EXTINF:0,FIP Monde
+http://direct.fipradio.fr/live/fip-webradio4.mp3
+
+#EXTINF:0,FIP Tout FIP
+http://direct.fipradio.fr/live/fip-webradio5.mp3
+
+#EXTINF:0,FIP Disquaire
+http://direct.fipradio.fr/live/fip-webradio6.mp3
+
+#EXTINF:0,Radio Perfecto
+http://radioperfecto.net-radio.fr/perfecto.mp3
+
+#EXTINF:0,France Culture
+http://direct.franceculture.fr/live/franceculture-midfi.mp3
+
+#EXTINF:0,France Inter
+http://direct.franceinter.fr/live/franceinter-midfi.mp3
+
+#EXTINF:0,France Musique
+http://direct.francemusique.fr/live/francemusique-midfi.mp3
+
+#EXTINF:0,France Info
+https://stream.radiofrance.fr/franceinfo/franceinfo_hifi.m3u8
+
