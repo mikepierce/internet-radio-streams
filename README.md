@@ -12,8 +12,10 @@ updated and working as I have time.
 But as a git repo, we can make this a collaborative effort:
 
   - If you find a stream that is not longer working,
-    either open an issue for it,
+    either [open an issue](https://github.com/mikepierce/internet-radio-streams/issues) for it,
     or just fix it: find the working URL and make a pull request.
+  - If you'd like to suggest a new station,
+    [start a discussion](https://github.com/mikepierce/internet-radio-streams/discussions/categories/station-suggestions).
 
 The streams in the _OffAir_ directory don't work,
 either because the corresponding station has gone off the air,
