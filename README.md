@@ -3,17 +3,18 @@
 This is my curated list 
 of [Icecast](https://icecast.org)/[SHOUTcast](https://www.shoutcast.com) internet radio stations 
 that I enjoy or find novel.
-One can play these streams with [ncmpcpp](https://wiki.archlinux.org/title/ncmpcpp) 
+These streams can be played with [ncmpcpp](https://wiki.archlinux.org/title/ncmpcpp) 
 or [VLC](https://wiki.archlinux.org/title/VLC_media_player), 
-or with a web browser.
+or just with a web browser.
 I've seen other lists like this online, usually in a plain-text gist,
 but many of the links are broken—I'll keep this list
 updated and working as I have time.
-But as a git repo, we can make this a collaborative effort:
+But, since this is a git repo, we could make it a collaborative effort:
 
   - If you find a stream that is not longer working,
     either [open an issue](https://github.com/mikepierce/internet-radio-streams/issues) for it,
-    or just fix it: find the working URL and make a pull request.
+    or just fix it by finding a working URL, 
+    adding it to the corresponding m3u file, and making a pull request.
   - If you'd like to suggest a new station,
     [start a discussion](https://github.com/mikepierce/internet-radio-streams/discussions/categories/station-suggestions).
 
@@ -22,7 +23,7 @@ either because the corresponding station has gone off the air,
 or because their stream URL changed 
 and I either couldn't or didn't want to find it.
 
-Here are some notable online radio websites.
+## Notable Internet Radio Station Websites
 
   - [NTS Radio](https://www.nts.live) 
   - [FIP](https://www.fip.fr) 
