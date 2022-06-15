@@ -29,6 +29,7 @@ Here are some notable online radio websites.
   - [dublab](https://www.dublab.com) 
   - [FRISKY](https://www.friskyradio.com) 
   - [SomaFM](https://somafm.com/) 
+  - [Radio Paradise](https://radioparadise.com) 
   - [Nightwave Plaza](https://plaza.one) 
   - [Poolsuite FM](https://poolsuite.net) 
   - [Third Rock Radio (NASA)](https://thirdrockradio.net) 
