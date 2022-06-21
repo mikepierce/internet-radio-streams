@@ -1,8 +1,8 @@
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a-Coffee-orange)](https://www.buymeacoffee.com/mpierce)
 
-This is my curated list 
+This is my list 
 of [Icecast](https://icecast.org)/[SHOUTcast](https://www.shoutcast.com) internet radio stations 
-that I enjoy or find novel.
+that I listen to, or find novel and want to save.
 These streams can be played with [ncmpcpp](https://wiki.archlinux.org/title/ncmpcpp) 
 or [VLC](https://wiki.archlinux.org/title/VLC_media_player), 
 or just with a web browser.
