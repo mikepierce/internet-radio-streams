@@ -1,3 +1,5 @@
+# My Curated List of Internet Radio Streams
+
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a-Coffee-orange)](https://www.buymeacoffee.com/mpierce)
 
 This is my curated list 
@@ -8,7 +10,8 @@ or just through a web browser.
 
 I've seen other lists like this online
 but they've always got old outdated broken links.
-I'll try to keep the links in this list updated as I have time.
+I'll try to keep the links in this list updated as I have time
+and as I notice they go down.
 Buuut, since this is a git repo, let's make it a collaborative effort:
 
   - If you find a stream that is not longer working,
