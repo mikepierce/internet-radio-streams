@@ -9,10 +9,9 @@ or [VLC](https://wiki.archlinux.org/title/VLC_media_player),
 or just through a web browser.
 
 There are other lists like this online
-but they've always got old outdated broken links.
-I'll try to keep the links in this list updated as I have time
-and when I notice they go down.
-Buuut, since this is a git repo, let's make it a collaborative effort:
+but they always seem to have old outdated broken links.
+I'll try to keep the links in this list updated as I have time.
+Buuuuuuuut, since this is a git repo, let's make it a collaborative effort:
 
   - If you find a stream that is not longer working,
     either [open an issue](https://github.com/mikepierce/internet-radio-streams/issues) for it,
@@ -30,6 +29,7 @@ and I was uninterested in fixing them.
   - [NTS Radio](https://www.nts.live) 
   - [FIP](https://www.fip.fr) 
   - [dublab](https://www.dublab.com) 
+  - [KCHUNG](https://www.kchungradio.org/stream)
   - [FRISKY](https://www.friskyradio.com) 
   - [SomaFM](https://somafm.com/) 
   - [Radio Paradise](https://radioparadise.com) 
@@ -37,7 +37,4 @@ and I was uninterested in fixing them.
   - [Poolsuite FM](https://poolsuite.net) 
   - [Third Rock Radio (NASA)](https://thirdrockradio.net) 
   - [Bluemars](http://echoesofbluemars.org) 
-  - [KCHUNG](https://www.kchungradio.org/stream)
   - [Radio Garden](http://radio.garden/) 
-  - [InternetRadio](https://www.internet-radio.com) 
-
