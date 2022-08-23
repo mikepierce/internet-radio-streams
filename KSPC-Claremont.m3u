@@ -1,8 +1,11 @@
 #EXTM3U
 
-http://188.165.232.7:8160/stream128
+#EXTINF:-1,KSPC Claremont 88.7
+http://andromeda.shoutca.st:8419/stream192
 http://nebula.shoutca.st:8160/stream128
 
+
+#http://188.165.232.7:8160/stream128
 #http://188.165.232.7:8160/stream/3/
 #http://nebula.shoutca.st:8160/stream/3/
 
