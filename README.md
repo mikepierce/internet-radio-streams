@@ -20,22 +20,25 @@ Buuuuuuuut, since this is a git repo, let's make it a collaborative effort:
   - If you'd like to suggest a new station for the list,
     [start a discussion](https://github.com/mikepierce/internet-radio-streams/discussions/categories/station-suggestions).
 
-The streams in the _OffAir_ directory don't work;
-their streams no longer worked 
-and I was uninterested in fixing them.
+The streams in the _OffAir_ directory worked at some time, 
+but no longer, and I was uninterested in fixing them.
 
-## Notable Internet Radio Station Websites
+## Notable Radio Station Websites
 
   - [NTS Radio](https://www.nts.live) 
   - [FIP](https://www.fip.fr) 
   - [dublab](https://www.dublab.com) 
-  - [KCHUNG](https://www.kchungradio.org/stream)
-  - [FRISKY](https://www.friskyradio.com) 
   - [SomaFM](https://somafm.com/) 
-  - [Radio Paradise](https://radioparadise.com) 
-  - [Nightwave Plaza](https://plaza.one) 
-  - [Poolsuite FM](https://poolsuite.net) 
+  - [FRISKY](https://www.friskyradio.com) 
   - [Third Rock Radio (NASA)](https://thirdrockradio.net) 
   - [Bluemars](http://echoesofbluemars.org) 
+  - [KCHUNG](https://www.kchungradio.org/stream)
+  - [Nightwave Plaza](https://plaza.one) 
+  - [Poolsuite FM](https://poolsuite.net) 
+
+## Radio Station Aggregates
+
   - [Radio Garden](http://radio.garden/) 
   - [CampusFM](https://www.campus-fm.com) 
+  - [Radio Paradise](https://radioparadise.com) 
+

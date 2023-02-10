@@ -1,16 +1,4 @@
 #EXTM3U
 
-http://50.7.64.226:8000/frisky_aac_hi
-# http://stream.friskyradio.com:8000/frisky_aac_hi
+https://stream.friskyradio.com
 
-http://50.7.64.226:8000/frisky_mp3_hi
-# http://stream.friskyradio.com/frisky_mp3_hi
-
-http://50.7.64.227/frisky_mp3_hi
-#http://stream2.friskyradio.com/frisky_mp3_hi
-
-http://50.7.64.227:8000/frisky_mp3_hi
-#http://stream2.friskyradio.com/frisky_mp3_hi
-
-http://50.7.64.227:7000/frisky_mp3_hi
-#http://stream2.friskyradio.com/frisky_mp3_hi
