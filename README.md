@@ -10,13 +10,14 @@ or just through a web browser.
 
 There are other lists like this online
 but they always seem to have old outdated broken links.
-I'll try to keep the links in this list updated as I have time.
-Buuuuuuuut, since this is a git repo, let's make it a collaborative effort:
+I'll try to keep the links in this list updated as I have time and attention.
+Buuuuuuuut, since this is a git repo, let's just make it a collaborative effort:
 
   - If you find a stream that is not longer working,
     either [open an issue](https://github.com/mikepierce/internet-radio-streams/issues) for it,
     or just go ahead and fix it by finding a working stream URL, 
     adding it to the corresponding m3u file, and making a pull request.
+    If a stream looks indefinitely down, add it to the _OffAir_ directory.
   - If you'd like to suggest a new station for the list,
     [start a discussion](https://github.com/mikepierce/internet-radio-streams/discussions/categories/station-suggestions).
 
@@ -38,7 +39,7 @@ but no longer, and I was uninterested in fixing them.
 
 ## Radio Station Aggregates
 
-  - [Radio Garden](http://radio.garden/) 
+  - [Radio Garden](http://radio.garden/) ← This is cool
   - [CampusFM](https://www.campus-fm.com) 
   - [Radio Paradise](https://radioparadise.com) 
 
