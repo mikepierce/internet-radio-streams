@@ -35,9 +35,11 @@ because I don't listen to them.
 ## Notable Radio Station Websites
 
   - [NTS Radio](https://www.nts.live) 
+  - [Subcity Radio](https://subcity.org) 
   - [FIP](https://www.fip.fr) 
   - [dublab](https://www.dublab.com) 
-  - [SomaFM](https://somafm.com/) 
+  - [somafm](https://somafm.com/) 
+  - [Radio Paradise (RP)](https://radioparadise.com) 
   - [FRISKY](https://www.friskyradio.com) 
   - [Third Rock Radio (NASA)](https://thirdrockradio.net) 
   - [Bluemars](http://echoesofbluemars.org) 
@@ -50,6 +52,6 @@ because I don't listen to them.
 
   - [Radio Garden](http://radio.garden/) ← This is cool
   - [CampusFM](https://www.campus-fm.com) 
-  - [Radio Paradise](https://radioparadise.com) 
   - [radio-locator](https://radio-locator.com) 
+  - [Wikipedia: List of Internet Radio Stations](https://en.wikipedia.org/wiki/List_of_Internet_radio_stations) (old)
 
