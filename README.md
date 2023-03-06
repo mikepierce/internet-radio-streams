@@ -3,9 +3,9 @@
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a-Coffee-orange)](https://www.buymeacoffee.com/mpierce)
 
 This is my curated list of good
-[Icecast](https://icecast.org)/
-[SHOUTcast](https://www.shoutcast.com)/
-[HLS](https://en.wikipedia.org/wiki/HTTP_Live_Streaming)/
+[Icecast](https://icecast.org) /
+[SHOUTcast](https://www.shoutcast.com) /
+[HLS](https://en.wikipedia.org/wiki/HTTP_Live_Streaming) /
 [DASH](https://en.wikipedia.org/wiki/Dynamic_Adaptive_Streaming_over_HTTP) 
 internet radio stations.
 These streams can be played with [mpd](https://www.musicpd.org)/[ncmpcpp](https://wiki.archlinux.org/title/ncmpcpp) 
@@ -13,10 +13,10 @@ or [VLC](https://wiki.archlinux.org/title/VLC_media_player),
 or just through a web browser.
 
 There are other lists like this online
-but they always seem to have outdated/broken links.
-I'll try to keep the links in this list updated 
-as I have time and attention.
-Buuuuuuuut, since this is a git repo, 
+    but they always seem to have outdated/broken links.
+    I'll try to keep the links in this list updated 
+    as I have time and attention.
+    Buuuuuuuut, since this is a git repo, 
 let's just make it a collaborative effort:
 
   - If you find a stream that is not longer working,
