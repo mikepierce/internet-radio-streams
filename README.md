@@ -56,4 +56,5 @@ because I don't listen to them.
   - [radio-locator](https://radio-locator.com) ← Local Radio Search Engine
   - [YouAreListening.to](http://youarelistening.to) ← Ambient played over Police Scanners
   - [CampusFM](https://www.campus-fm.com) ← Aggregate of College Radio Stations
+  - [Radio Reference](https://www.radioreference.com) ← Frequency database and information source
 
