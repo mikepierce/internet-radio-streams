@@ -58,4 +58,5 @@ because I don't listen to them.
   - [YouAreListening.to](http://youarelistening.to) ← Ambient played over Police Scanners
   - [CampusFM](https://www.campus-fm.com) ← Aggregate of College Radio Stations
   - [Radio Reference](https://www.radioreference.com) ← Frequency database and information source
+  - [Radio Mast Reference Audio Streams](https://www.radiomast.io/reference-streams) ← Sample audio streams with various codecs and formats, including HLS
 
