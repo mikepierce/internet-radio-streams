@@ -1,8 +1,6 @@
 # Curated List of Internet Radio Streams
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a-Coffee-orange)](https://www.buymeacoffee.com/mpierce)
-
-This is my curated list of
+This is my list of
 [Icecast](https://icecast.org) /
 [SHOUTcast](https://www.shoutcast.com) /
 [HLS](https://en.wikipedia.org/wiki/HTTP_Live_Streaming) /
@@ -16,7 +14,7 @@ There are other lists like this online
 but they always seem to have outdated/broken links.
 I'll try to keep the links in this list updated 
 as I have time and attention.
-Buuuuuuuut, since this is a git repo, 
+Buuuuuuut, since this is a git repo, 
 let's just make it a collaborative effort:
 
   - If you find a stream that is not longer working,
