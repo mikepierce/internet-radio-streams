@@ -52,6 +52,7 @@ because I don't listen to them.
   - [Radio Garden](http://radio.garden/) ← Worldwide radio with a globe UI
   - [RadioBrowser](https://www.radio-browser.info) ← Large database of internet radio streams
   - [YouAreListening.to](http://youarelistening.to) ← Ambient played over police scanners
+  - [Rainwave](https://rainwave.cc/) ← System for controlling icecast playback (e.g. users can vote on next track)
   - [m3u-music-radio-playlists](https://junguler.github.io/m3u-radio-music-playlists/) ← A large-scale radio web scraping project
   - [CampusFM](https://www.campus-fm.com) ← Aggregate of college radio stations
   - [radio-locator](https://radio-locator.com) ← Local radio search engine
