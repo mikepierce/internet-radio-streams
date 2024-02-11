@@ -1,0 +1,9 @@
+#EXTM3U
+
+#EXTINF:-1,Nectarine 192kbps
+http://necta.burn.net:8000/nectarine
+#EXTINF:-1,Nectarine 192kbps
+http://nectarine.ers35.net:8000/necta192.mp3
+#EXTINF:-1,Nectarine (worlio) 64kbps
+https://radio.worlio.com/stream/necta64.mp3
+
