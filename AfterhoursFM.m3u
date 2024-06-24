@@ -1,20 +1,27 @@
 #EXTM3U
 
-#EXTINF:-1,AH.FM - World's #1 Trance Radio 192k
-http://37.59.49.155:8000/192k
-## http://fr.ah.fm:8000/192k
+#EXTINF:-1,#1 EDM RADIO | AH.FM
+http://nl.ah.fm:8000/live
+#EXTINF:-1,#1 EDM RADIO | AH.FM
+http://fr.ah.fm:8000/live
+#EXTINF:-1,#1 EDM RADIO | AH.FM
+http://fr2.ah.fm:8000/live
+#EXTINF:-1,#1 EDM RADIO | AH.FM
+http://195.95.233.51:8000/afterhours
+#EXTINF:-1,#1 EDM RADIO | AH.FM
+http://stream.ah.fm:8000/live
+#EXTINF:-1,#1 EDM RADIO | AH.FM
+http://ca.ah.fm:8000/live
+#EXTINF:-1,#1 EDM RADIO | AH.FM
+http://relay.ah.fm:8000/live
+#EXTINF:-1,#1 EDM RADIO | AH.FM
+http://fr3.ah.fm:8000/live
+#EXTINF:-1,#1 EDM RADIO Mobile | AH.FM
+http://nl.ah.fm:8000/mobile
+#EXTINF:-1,#1 EDM RADIO Mobile | AH.FM
+http://fr.ah.fm:8000/mobile
+#EXTINF:-1,#1 EDM RADIO Mobile | AH.FM
+http://fr2.ah.fm:8000/mobile
+#EXTINF:-1,#1 EDM RADIO Mobile | AH.FM
+http://fr3.ah.fm:8000/mobile
 
-#EXTINF:-1,AH.FM - World's #1 Trance Radio 192k
-http://relay.ah.fm/192k
-#EXTINF:-1,AH.FM - World's #1 Trance Radio 192k
-https://choon.in/live
-#EXTINF:-1,AH.FM - World's #1 Trance Radio 192k
-http://f2.ah.fm:8000/192k
-#EXTINF:-1,AH.FM - World's #1 Trance Radio 192k
-http://ca.ah.fm/192k
-#EXTINF:-1,AH.FM - World's #1 Trance Radio 192k
-http://fr3.ah.fm:9000/192k
-
-## http://46.105.98.162:8000/192k
-## http://206.223.161.107:80/192k
-## http://37.187.0.6:9000/192k
