@@ -1,9 +1,8 @@
 #EXTM3U
 
 #EXTINF:0,FIP
-http://51.158.104.58/fip-midfi.mp3
-# http://icecast.radiofrance.fr/fip-midfi.mp3
-# http://direct.fipradio.fr/live/fip-midfi.mp3
+http://direct.fipradio.fr/live/fip-midfi.mp3
+http://icecast.radiofrance.fr/fip-midfi.mp3
 
 #EXTINF:0,FIP Rock
 http://direct.fipradio.fr/live/fip-webradio1.mp3
