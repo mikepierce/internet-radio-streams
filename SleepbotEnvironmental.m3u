@@ -1,6 +1,7 @@
 #EXTM3U
 
-http://107.181.227.250:8218/seb
-http://sc13.shoutcaststreaming.us:8218/seb
+#EXTINF:-1,Sleepbot Environmental Broadcast - - sleepbot.com/seb/
+http://primarystream.sleepbot.com:8218/seb
+#EXTINF:-1,Sleepbot Environmental Broadcast - - sleepbot.com/seb/
+http://backupstream.sleepbot.com:8096/seb
 
-http://209.104.5.207:8096/seb
