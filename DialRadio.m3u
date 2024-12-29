@@ -1,0 +1,6 @@
+#EXTM3U
+
+#EXTINF:-1, Dial Radio
+https://cast.dialradio.live/stream.opus
+https://cast.dialradio.live/stream.aac
+https://cast.dialradio.live/stream.mp3

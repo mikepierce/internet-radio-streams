@@ -50,6 +50,7 @@ because I don't listen to them.
 ## Other Cool Radio Sites/Projects
 
   - [Radio Garden](http://radio.garden/) ← Worldwide radio with a globe UI
+  - [Dial Radio](https://dialradio.live) ← Webradio broadcasting anyone's playlists
   - [RadioBrowser](https://www.radio-browser.info) ← Large database of internet radio streams
   - [YouAreListening.to](http://youarelistening.to) ← Ambient played over police scanners
   - [Rainwave](https://rainwave.cc/) ← System for controlling icecast playback (e.g. users can vote on next track)
