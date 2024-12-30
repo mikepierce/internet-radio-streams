@@ -60,3 +60,11 @@ or have simply been removed from the list because I don't listen to them.
   - [LiveATC.net](https://www.liveatc.net) ← Air traffic control streams
   - [Radio Reference](https://www.radioreference.com) ← Frequency database and information source
 
+## Radio Streams I Wish I Had a URL For
+
+  - [WorldWideFM](https://worldwidefm.net) 
+  - [Soho Radio](https://sohoradiolondon.com) 
+  - [The Lot Radio](https://www.thelotradio.com) 
+  - [RadioMeuh](https://www.radiomeuh.com) 
+  - [Le Mellotron](https://www.lemellotron.com) 
+
