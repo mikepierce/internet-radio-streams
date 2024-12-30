@@ -1,34 +1,33 @@
 # Curated List of Internet Radio Streams
 
-This is my list of
-[Icecast](https://icecast.org) /
-[SHOUTcast](https://www.shoutcast.com) /
-[HLS](https://en.wikipedia.org/wiki/HTTP_Live_Streaming) /
-[DASH](https://en.wikipedia.org/wiki/Dynamic_Adaptive_Streaming_over_HTTP) 
-internet radio stations.
-These streams can be played with [mpd](https://www.musicpd.org)/[ncmpcpp](https://wiki.archlinux.org/title/ncmpcpp) 
-or [VLC](https://wiki.archlinux.org/title/VLC_media_player), 
-or just through a web browser.
+This is my (awesome) list of internet radio streams
+broadcast on the web from an [icecast](https://icecast.org)/
+[shoutcast](https://www.shoutcast.com) server
+or via [HLS](https://en.wikipedia.org/wiki/HTTP_Live_Streaming)
+or [DASH](https://en.wikipedia.org/wiki/Dynamic_Adaptive_Streaming_over_HTTP)
+or whatever.
+These streams can be played by many media players
+(e.g. [VLC](https://www.videolan.org))
+or played by opening the stream URL directly in a web browser.
 
 There are other lists like this online
-but they always seem to have outdated/broken links.
-I'll try to keep the links in this list updated 
-as I have time and attention.
-Buuuuuuut, since this is a git repo, 
-let's just make it a collaborative effort:
+but they always seem to have outdated, broken links.
+While I'm capable, I'll maintain this list,
+pruning or updating streams whose links are dead as I notice them.
+Buuuuuuut since this is a git repo, 
+we can make this maintenance a collaborative effort:
 
-  - If you find a stream that is not longer working,
-    either [open an issue](https://github.com/mikepierce/internet-radio-streams/issues) for it,
-    or just go ahead and fix it by finding a working stream URL, 
-    adding it to the corresponding m3u file, and making a pull request.
-    If a stream looks indefinitely down, move it to the _DEMOTED_ directory.
-  - If you'd like to suggest a new station,
-    [let me know](https://github.com/mikepierce/internet-radio-streams/discussions/categories/station-suggestions).
+  - If you find a stream that is not longer working, either 
+  [open an issue](https://github.com/mikepierce/internet-radio-streams/issues) for it
+  or just go ahead and fix it: find a working stream URL, 
+  add it to the top of the corresponding m3u file, and make a pull request.
+  If a stream looks indefinitely "off-air", 
+  move the corresponding m3u file to the _DEMOTED_ directory and make a pull request.
+  - If you'd like to suggest a stream to be added to the list,
+  [let me know](https://github.com/mikepierce/internet-radio-streams/discussions/categories/station-suggestions).
 
-The streams in the _DEMOTED_ directory 
-have either gone off-air
-or have simply been removed 
-because I don't listen to them.
+The streams in the _DEMOTED_ directory have either gone "off-air"
+or have simply been removed from the list because I don't listen to them.
 
 ## Select Radio Station Websites
 
