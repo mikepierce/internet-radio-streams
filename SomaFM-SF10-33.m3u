@@ -1,27 +1,16 @@
 #EXTM3U
 
-http://198.24.44.211/sf1033-128-mp3
-# http://ice5.somafm.com/sf1033-128-mp3
-http://208.64.184.37/sf1033-128-mp3
-# http://ice4.somafm.com/sf1033-128-mp3
-http://198.24.44.210/sf1033-128-mp3
-# http://ice3.somafm.com/sf1033-128-mp3
-http://173.239.76.148/sf1033-123-mp3
-# http://ice1.somafm.com/sf1033-128-mp3
+http://ice2.somafm.com/sf1033-128-mp3
+http://ice3.somafm.com/sf1033-128-mp3
+http://ice4.somafm.com/sf1033-128-mp3
+http://ice5.somafm.com/sf1033-128-mp3
 
-http://208.64.184.36/sf1033
-http://198.24.44.211/sf1033
-http://208.64.184.37/sf1033
-http://ice.somafm.com/sf1033
+http://ice2.somafm.com/sf1033-64-mp3
+http://ice3.somafm.com/sf1033-64-mp3
+http://ice4.somafm.com/sf1033-64-mp3
+http://ice5.somafm.com/sf1033-64-mp3
 
-http://198.24.44.211/sf1033-128-aac
-http://ice5.somafm.com/sf1033-128-aac
-
-http://208.64.184.37/sf1033-128-aac
-http://ice4.somafm.com/sf1033-128-aac
-
-http://198.24.44.210/sf1033-32-aac
-http://ice3.somafm.com/sf1033-32-aac
-
-http://173.239.76.148/sf1033-32-aac
-http://ice1.somafm.com/sf1033-32-aac
+http://ice2.somafm.com/sf1033-32-mp3
+http://ice3.somafm.com/sf1033-32-mp3
+http://ice4.somafm.com/sf1033-32-mp3
+http://ice5.somafm.com/sf1033-32-mp3

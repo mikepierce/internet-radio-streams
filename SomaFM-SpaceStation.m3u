@@ -1,24 +1,17 @@
 #EXTM3U
 
-http://198.24.44.211/spacestation-128-aac
-# http://ice5.somafm.com/spacestation-128-aac
-http://208.64.184.37/spacestation-128-aac
-# http://ice4.somafm.com/spacestation-128-aac
-http://198.24.44.211/spacestation-128-mp3
-# http://ice5.somafm.com/spacestation-128-mp3
-http://208.64.184.37/spacestation-128-mp3
-# http://ice4.somafm.com/spacestation-128-mp3
-http://198.24.44.210/spacestation-128-mp3
-# http://ice3.somafm.com/spacestation-128-mp3
-http://173.239.76.148/spacestation-123-mp3
-# http://ice1.somafm.com/spacestation-128-mp3
-http://198.24.44.210/spacestation-32-aac
-# http://ice3.somafm.com/spacestation-32-aac
-http://173.239.76.148/spacestation-32-aac
-# http://ice1.somafm.com/spacestation-32-aac
+http://ice2.somafm.com/spacestation-128-aac
+http://ice3.somafm.com/spacestation-128-aac
+http://ice4.somafm.com/spacestation-128-aac
+http://ice5.somafm.com/spacestation-128-aac
 
-http://208.64.184.36/spacestation
-http://198.24.44.211/spacestation
-http://208.64.184.37/spacestation
-http://ice.somafm.com/spacestation
+http://ice2.somafm.com/spacestation-64-aac
+http://ice3.somafm.com/spacestation-64-aac
+http://ice4.somafm.com/spacestation-64-aac
+http://ice5.somafm.com/spacestation-64-aac
+
+http://ice2.somafm.com/spacestation-32-aac
+http://ice3.somafm.com/spacestation-32-aac
+http://ice4.somafm.com/spacestation-32-aac
+http://ice5.somafm.com/spacestation-32-aac
 
