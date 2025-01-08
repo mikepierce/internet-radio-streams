@@ -11,8 +11,9 @@ These streams can be played by many media players
 or played by opening the stream URL directly in a web browser.
 
 There are other lists like this online
-but they always seem to have outdated, broken links.
-While I'm capable, I'll maintain this list,
+but they always seem to have outdated, broken links,
+and focus on stream quantity over quality.
+While I'm capable, I'll maintain and curate this list,
 pruning or updating streams whose links are dead as I notice them.
 Buuuuuuut since this is a git repo, 
 we can make this maintenance a collaborative effort:
@@ -29,42 +30,48 @@ we can make this maintenance a collaborative effort:
 The streams in the _DEMOTED_ directory have either gone "off-air"
 or have simply been removed from the list because I don't listen to them.
 
-## Select Radio Station Websites
+## Select Radio Stream Websites
 
-  - [9128 Live](https://9128.live)
+  - [313.FM](https://www.313.fm)
+  - [9128.Live](https://9128.live)
   - [Ambient Sleeping Pill](https://ambientsleepingpill.com)
   - [Bluemars](http://echoesofbluemars.org) 
+  - [Cashmere Radio](https://cashmereradio.com) 
+  - [Dial Radio](https://dialradio.live)
   - [dublab](https://www.dublab.com) 
   - [FIP](https://www.fip.fr) 
   - [FRISKY](https://www.friskyradio.com) 
-  - [(NASA) Third Rock Radio](https://thirdrockradio.net) 
-  - [NTS Radio](https://www.nts.live) 
+  - [Hirschmilch Radio](https://hirschmilch.de)
+  - [Kiosk Radio](https://kioskradio.com) 
+  - [Newtown Radio](https://newtownradio.com) 
   - [Nightwave Plaza](https://plaza.one) 
+  - [NTS Radio](https://www.nts.live) 
+  - [Radio Caroline](https://www.radiocaroline.co.uk) 
+  - [Le Mellotron](https://www.lemellotron.com) 
   - [Poolsuite FM](https://poolsuite.net) 
-  - [Radio Paradise (RP)](https://radioparadise.com) 
+  - [Radio Paradise](https://radioparadise.com) 
+  - [Radiomeuh](https://www.radiomeuh.com) 
   - [Shonen Beach FM](https://www.beachfm.co.jp) 
-  - [somafm](https://somafm.com/) 
+  - [Soho Radio](https://sohoradiolondon.com) 
+  - [SomaFM](https://somafm.com/) 
   - [Subcity Radio](https://subcity.org) 
+  - [Third Rock Radio (NASA)](https://thirdrockradio.net) 
+  - [Worldwide FM](https://worldwidefm.net) 
 
-## Other Cool Radio Sites/Projects
+## Radio Stream Databases & Aggregators
+
+  - [fmstream.org](https://fmstream.org/) ← Large database of internet radio streams
+  - [radio-browser.info](https://www.radio-browser.info) ← Large database of internet radio streams
+  - [m3u-music-radio-playlists (github)](https://junguler.github.io/m3u-radio-music-playlists/) ← A large-scale radio web scraping project
+
+## Cool Radio-Related Sites/Projects
 
   - [Radio Garden](http://radio.garden/) ← Worldwide radio with a globe UI
-  - [Dial Radio](https://dialradio.live) ← Webradio broadcasting anyone's playlists
-  - [RadioBrowser](https://www.radio-browser.info) ← Large database of internet radio streams
-  - [YouAreListening.to](http://youarelistening.to) ← Ambient played over police scanners
   - [Rainwave](https://rainwave.cc/) ← System for controlling icecast playback (e.g. users can vote on next track)
-  - [Demoscene & Video Game Radio](https://mw.rat.bz/davgmsrl/) ← list compiled by Michael Walden
-  - [m3u-music-radio-playlists](https://junguler.github.io/m3u-radio-music-playlists/) ← A large-scale radio web scraping project
-  - [CampusFM](https://www.campus-fm.com) ← Aggregate of college radio stations
-  - [radio-locator](https://radio-locator.com) ← Local radio search engine
+  - [YouAreListening.to](http://youarelistening.to) ← Ambient played over police scanners
+  - [The Lot Radio](https://www.thelotradio.com) ← Streaming from a shipping container on an empty lot in NYC
+  - [Demoscene & Video Game Radio](https://mw.rat.bz/davgmsrl/) ← List compiled by Michael Walden
+  - [Radio-Locator.com](https://radio-locator.com) ← Search for local radio stations (e.g. by ZIP code)
   - [LiveATC.net](https://www.liveatc.net) ← Air traffic control streams
   - [Radio Reference](https://www.radioreference.com) ← Frequency database and information source
-
-## Radio Streams I Wish I Had a URL For
-
-  - [WorldWideFM](https://worldwidefm.net) 
-  - [Soho Radio](https://sohoradiolondon.com) 
-  - [The Lot Radio](https://www.thelotradio.com) 
-  - [RadioMeuh](https://www.radiomeuh.com) 
-  - [Le Mellotron](https://www.lemellotron.com) 
 
