@@ -1,0 +1,19 @@
+#EXTM3U
+
+#EXTINF:-1, BBC - Radio 1
+#EXTGENRE: youth contemporary
+http://as-hls-ww-live.akamaized.net/pool_01505109/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d96000.norewind.m3u8
+
+#EXTINF:-1, BBC - Radio 1Xtra
+http://as-hls-ww-live.akamaized.net/pool_92079267/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio%3d96000.norewind.m3u8
+
+#EXTINF:-1, BBC - Radio 1Dance
+http://as-hls-ww-live.akamaized.net/pool_62063831/live/ww/bbc_radio_one_dance/bbc_radio_one_dance.isml/bbc_radio_one_dance-audio%3d96000.norewind.m3u8
+
+#EXTINF:-1, BBC - Radio 2
+#EXTGENRE: adult contemporary
+http://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d96000.norewind.m3u8
+
+#EXTINF:-1, BBC - Radio 6 Music
+#EXTGENRE: alternative
+http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d96000.norewind.m3u8

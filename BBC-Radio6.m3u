@@ -1,5 +1,0 @@
-#EXTM3U
-
-#EXTINF:-1, BBC Radio 6
-#EXTGENRE: alternative
-http://lstn.lv/bbc.m3u8?station=bbc_6music&bitrate=320000

@@ -1,5 +1,0 @@
-#EXTM3U
-
-#EXTINF:-1, BBC Radio 2
-#EXTGENRE: adult contemporary
-http://lstn.lv/bbc.m3u8?station=bbc_radio_two&bitrate=320000
