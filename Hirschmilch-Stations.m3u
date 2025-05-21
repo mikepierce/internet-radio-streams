@@ -1,0 +1,29 @@
+#EXTM3U
+
+#EXTINF:-1, Hirschmilch Chillout
+https://hirschmilch.de:7501/chillout.mp3
+https://xfer.hirschmilch.de:8001/chillout.opus
+
+#EXTINF:-1, Hirschmilch Electronic
+https://hirschmilch.de:7501/electronic.mp3
+https://xfer.hirschmilch.de:8001/electronic.opus
+
+#EXTINF:-1, Hirschmilch Organic-House
+https://hirschmilch.de:7501/organic-house.mp3
+https://xfer.hirschmilch.de:8001/organic-house.opus
+
+#EXTINF:-1, Hirschmilch Prog-House
+https://hirschmilch.de:7501/prog-house.mp3
+https://xfer.hirschmilch.de:8001/prog-house.opus
+
+#EXTINF:-1, Hirschmilch Progressive
+https://hirschmilch.de:7501/progressive.mp3
+https://xfer.hirschmilch.de:8001/progressive.opus
+
+#EXTINF:-1, Hirschmilch Psytrance
+https://hirschmilch.de:7501/psytrance.mp3
+https://xfer.hirschmilch.de:8001/psytrance.opus
+
+#EXTINF:-1, Hirschmilch Techno
+https://hirschmilch.de:7501/techno.mp3
+https://xfer.hirschmilch.de:8001/techno.opus
