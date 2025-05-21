@@ -1,5 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1, Subcity Radio, url="https://subcity.org"
+#EXTINF:-1, Subcity Radio
 https://stream.subcity.org/listen
-

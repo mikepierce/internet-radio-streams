@@ -1,4 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1, Echoes of Bluemars, Voices from Within
+#EXTGENRE: ambient
 http://50.116.12.253:8000/voicesfromwithin
 http://streams.echoesofbluemars.org:8000/voicesfromwithin

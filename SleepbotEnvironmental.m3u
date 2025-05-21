@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,Sleepbot Environmental Broadcast - - sleepbot.com/seb/
+#EXTINF:-1, Sleepbot Environmental Broadcast
 http://primarystream.sleepbot.com:8218/seb
-#EXTINF:-1,Sleepbot Environmental Broadcast - - sleepbot.com/seb/
 http://backupstream.sleepbot.com:8096/seb
-

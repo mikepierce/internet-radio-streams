@@ -1,15 +1,15 @@
 #EXTM3U
 
+#EXTINF:-1, SomaFM - SF 10-33
+#EXTGENRE: ambient music mixed with the sounds of San Francisco public safety radio traffic
 http://ice2.somafm.com/sf1033-128-mp3
 http://ice3.somafm.com/sf1033-128-mp3
 http://ice4.somafm.com/sf1033-128-mp3
 http://ice5.somafm.com/sf1033-128-mp3
-
 http://ice2.somafm.com/sf1033-64-mp3
 http://ice3.somafm.com/sf1033-64-mp3
 http://ice4.somafm.com/sf1033-64-mp3
 http://ice5.somafm.com/sf1033-64-mp3
-
 http://ice2.somafm.com/sf1033-32-mp3
 http://ice3.somafm.com/sf1033-32-mp3
 http://ice4.somafm.com/sf1033-32-mp3

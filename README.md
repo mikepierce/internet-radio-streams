@@ -1,8 +1,7 @@
 # Curated List of Internet Radio Streams
 
 This is my (awesome) list of internet radio streams
-broadcast on the web from an [icecast](https://icecast.org)/
-[shoutcast](https://www.shoutcast.com) server
+broadcast on the web from an [icecast](https://icecast.org)/[shoutcast](https://www.shoutcast.com) server
 or via [HLS](https://en.wikipedia.org/wiki/HTTP_Live_Streaming)
 or [DASH](https://en.wikipedia.org/wiki/Dynamic_Adaptive_Streaming_over_HTTP)
 or whatever.
@@ -21,13 +20,16 @@ we can make this maintenance a collaborative effort:
   - If you find a stream that is not longer working, either 
   [open an issue](https://github.com/mikepierce/internet-radio-streams/issues) for it
   or just go ahead and fix it: find a working stream URL, 
-  add it to the corresponding m3u file, and make a pull request.
+  add it to the corresponding `m3u` file, and make a pull request.
   If a stream looks indefinitely "off-air", 
   move the corresponding m3u file to the _DEMOTED_ directory and make a pull request.
   - If you'd like to suggest a stream to be added to the list,
   [let me know](https://github.com/mikepierce/internet-radio-streams/discussions/categories/station-suggestions).
 
-The streams in the _DEMOTED_ directory have either gone "off-air"
+Any `m3u` file with "_Stations_" in its name is not a single radio stream,
+but is instead a list of distinct streams from that broadcaster.
+
+The streams in the _DEMOTED_ directory have either gone off-air
 or have simply been removed from the list because I don't listen to them.
 
 ## Select Radio Stream Websites

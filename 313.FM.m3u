@@ -1,4 +1,5 @@
 #EXTM3U
 
 #EXTINF:-1, 313.FM Detroit
+#EXTGENRE: electronic
 http://icecast.ofdoom.com:8000/burst.mp3

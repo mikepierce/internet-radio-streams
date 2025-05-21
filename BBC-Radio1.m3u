@@ -1,16 +1,5 @@
 #EXTM3U
-#EXTINF:-1,BBC Radio 1
-http://lstn.lv/bbc.m3u8?station=bbc_radio_one&bitrate=320000
 
-### Depreciated m3u streams
-# http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_radio_one.m3u8
-# http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_one.m3u8
-# http://132.185.209.55/bbc_radio_one
-# http://132.185.209.52/bbc_radio_one
-# http://132.185.210.53/bbc_radio_one
-# http://132.185.210.74/bbc_radio_one
-# http://stream.live.vc.bbcmedia.co.uk/bbc_radio_one
-# http://stream.live.vc.bbcmedia.co.uk/bbc_radio_one?s=1675352560&e=1675366960&h=2eb5d4470c80ef365be848d4df0ea5a1
-# http://69.28.183.238/stream/bbcmedia_radio1_mf_p
-# http://69.28.183.248/stream/bbcmedia_radio1_mf_p
-# http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p
+#EXTINF:-1, BBC Radio 1
+#EXTGENRE: youth contemporary
+http://lstn.lv/bbc.m3u8?station=bbc_radio_one&bitrate=320000
