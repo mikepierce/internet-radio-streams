@@ -1,0 +1,5 @@
+#EXTM3U
+
+#EXTINF:-1, SyntheticFM - Synth
+#EXTGENRE: synthwave
+http://stream.syntheticfm.com:8040/stream
