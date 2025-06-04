@@ -47,6 +47,7 @@ or have simply been removed from the list because I don't listen to them.
   · [Kiosk Radio](https://kioskradio.com) 
   · [Newtown Radio](https://newtownradio.com) 
   · [Nightwave Plaza](https://plaza.one) 
+  · [Poolsuite](https://poolsuite.net) 
   · [Nightride FM](https://nightride.fm) 
   · [NTS Radio](https://www.nts.live) 
   · [Radio Caroline](https://www.radiocaroline.co.uk) 
