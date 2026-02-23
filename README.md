@@ -68,9 +68,11 @@ or have simply been removed from the list because I don't listen to them.
   - [radio-browser.info](https://www.radio-browser.info) ← Large database of internet radio streams
   - [m3u-music-radio-playlists (github)](https://junguler.github.io/m3u-radio-music-playlists/) ← A large-scale radio web scraping project
 
-## Cool Radio-Related Sites/Projects
+## Cool Radio or Music-Discovery Sites/Projects
 
   - [Radio Garden](http://radio.garden/) ← Worldwide radio with a globe UI
+  - [Every Noise at Once](https://everynoise.com) ← Algorithmically-generated scatter-plot of the musical genre-space
+  - [Music-Map](https://www.music-map.com) ← Enter an artist, get an adjacency graph of mutually liked artists
   - [Rainwave](https://rainwave.cc/) ← System for controlling icecast playback (e.g. users can vote on next track)
   - [YouAreListening.to](http://youarelistening.to) ← Ambient played over police scanners
   - [Demoscene & Video Game Radio](https://mw.rat.bz/davgmsrl/) ← List compiled by Michael Walden
