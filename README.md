@@ -68,7 +68,7 @@ or have simply been removed from the list because I don't listen to them.
   - [radio-browser.info](https://www.radio-browser.info) ← Large database of internet radio streams
   - [m3u-music-radio-playlists (github)](https://junguler.github.io/m3u-radio-music-playlists/) ← A large-scale radio web scraping project
 
-## Cool Radio or Music-Discovery Sites/Projects
+## Cool Radio or Streaming or Music-Discovery Sites/Projects
 
   - [Radio Garden](http://radio.garden/) ← Worldwide radio with a globe UI
   - [Every Noise at Once](https://everynoise.com) ← Algorithmically-generated scatter-plot of the musical genre-space
@@ -80,3 +80,5 @@ or have simply been removed from the list because I don't listen to them.
   - [Radio-Locator.com](https://radio-locator.com) ← Search for local radio stations (e.g. by ZIP code)
   - [LiveATC.net](https://www.liveatc.net) ← Air traffic control streams
   - [Radio Reference](https://www.radioreference.com) ← Frequency database and information source
+  - [Public IPTV Channels](https://github.com/iptv-org/iptv) ← Collection of publicly available IPTV channels
+  - [TV Explorer](https://tvexplorer.live) and [Famelack](https://famelack.com) ← Nice front-ends to stream Public IPTV Channels
