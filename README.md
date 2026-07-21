@@ -66,7 +66,7 @@ or have simply been removed from the list because I don't listen to them.
 
   - [fmstream.org](https://fmstream.org/) ← Large database of internet radio streams
   - [radio-browser.info](https://www.radio-browser.info) ← Large database of internet radio streams
-  - [recommended-radio-streams (github)](https://github.com/deroverda/recommended-radio-streams) ← A collection of internet radio streams similar to mine, but MUCH larger
+  - [recommended-radio-streams (github)](https://github.com/deroverda/recommended-radio-streams) ← A collection of streams similar to mine, but larger
   - [m3u-music-radio-playlists (github)](https://junguler.github.io/m3u-radio-music-playlists/) ← A large-scale radio web scraping project
 
 ## Cool Radio or Streaming or Music-Discovery Sites/Projects
