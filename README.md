@@ -45,6 +45,7 @@ or have simply been removed from the list because I don't listen to them.
   · [FRISKY](https://www.friskyradio.com) 
   · [Hirschmilch Radio](https://hirschmilch.de)
   · [Kiosk Radio](https://kioskradio.com) 
+  · [KPISS](https://kpiss.fm) 
   · [Newtown Radio](https://newtownradio.com) 
   · [Nightwave Plaza](https://plaza.one) 
   · [Poolsuite](https://poolsuite.net) 
@@ -66,7 +67,7 @@ or have simply been removed from the list because I don't listen to them.
 
   - [fmstream.org](https://fmstream.org/) ← Large database of internet radio streams
   - [radio-browser.info](https://www.radio-browser.info) ← Large database of internet radio streams
-  - [recommended-radio-streams (github)](https://github.com/deroverda/recommended-radio-streams) ← A collection of streams similar to mine, but larger
+  - [recommended-radio-streams (github)](https://github.com/deroverda/recommended-radio-streams) ← A larger collection of streams than mine
   - [m3u-music-radio-playlists (github)](https://junguler.github.io/m3u-radio-music-playlists/) ← A large-scale radio web scraping project
 
 ## Cool Radio or Streaming or Music-Discovery Sites/Projects
