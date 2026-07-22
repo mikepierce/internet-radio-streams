@@ -26,9 +26,8 @@ we can make this maintenance a collaborative effort:
   - If you'd like to suggest a stream to be added to the list,
   [let me know](https://github.com/mikepierce/internet-radio-streams/discussions/categories/station-suggestions).
 
-Any `m3u` file with "_Stations_" in its name is not a single radio stream,
+Notes: Any `m3u` file with "_Stations_" in its name is not a single radio stream,
 but is instead a list of distinct streams from that broadcaster.
-
 The streams in the _DEMOTED_ directory have either gone off-air
 or have simply been removed from the list because I don't listen to them.
 
