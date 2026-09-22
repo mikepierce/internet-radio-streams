@@ -72,6 +72,7 @@ or have simply been removed from the list because I don't listen to them.
 ## Cool Radio or Streaming or Music-Discovery Sites/Projects
 
   - [Radio Garden](http://radio.garden/) ← Worldwide radio with a globe UI
+  - [Air Drift](https://airdrift.stream/) ← Radio Browser on a globe; drift to a random station anywhere
   - [Every Noise at Once](https://everynoise.com) ← Algorithmically-generated scatter-plot of the musical genre-space
   - [Music-Map](https://www.music-map.com) ← Enter an artist, get an adjacency graph of mutually liked artists
   - [Music for Programming](https://musicforprogramming.net) ← Nice website offering exactly what the name suggests
